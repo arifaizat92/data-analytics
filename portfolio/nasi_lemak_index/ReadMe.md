@@ -1,4 +1,4 @@
-# Nasi Lemak Idex Dashboard
+# Nasi Lemak Index Dashboard
 
 Nasi Lemak Index Proect is a lighthearted way of visualising the price of Nasi Lemak among different states
 
